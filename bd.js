@@ -5,4 +5,3 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-location.href="https://bbs.weiququ.cn/thread-5184-1-1.html"
